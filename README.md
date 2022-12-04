@@ -54,3 +54,8 @@
   <img width="416" alt="image" src="https://user-images.githubusercontent.com/82940632/204839986-7876a7a5-2092-4955-b942-8de17a486718.png">
 
 Также при `--do_video True` будет создано видео с названием `--output_video_path` (default=`new_video.mp4`)
+
+## Планы на будущее
+  * Попробовать заменить MTCNN на YOLOv5 или YOLOv7 (должно лучше находить лица; возможно будет быстрее работать))
+
+  * ...
